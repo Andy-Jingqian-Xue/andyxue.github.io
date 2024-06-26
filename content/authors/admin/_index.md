@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Andy Jingqian Xue (薛景谦)
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Andy
+last_name: Xue
 
 # Status emoji
 status:
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: MPhil Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: The Hong Kong University of Science and Technology (Guangzhou)
     url: https://openai.com/
 
 # Social network links
@@ -38,19 +38,20 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Andy-Jingqian-Xue
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=Andy_Jingqian_Xue
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0003-2591-2719
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
+  - GIScience
+  - Complexity Theory
+  - GeoAI
+  - Remote Sensing Image Processing
+  - City Science
 education:
   - area: PhD Artificial Intelligence
     institution: Stanford University
