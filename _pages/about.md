@@ -17,10 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Andy Jingqian Xue (薛景谦) is currently a MPhil student at <a href='https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/society-hub/urban-governance-and-design/'> Thrust of Urban Governance and Design </a> of <a href='https://www.hkust-gz.edu.cn/'>The Hong Kong University of Science and Technology (Guangzhou)</a>. Before that, he earned a bachelor of science degree in geogrpahical information science from <a href='https://gp.sysu.edu.cn/en/'>School of Geography and Planning </a> of <a href='https://www.sysu.edu.cn/sysuen/'>Sun Yat-sen University</a>. He is deeply interested in fundamental geospatial representation and the properties and patterns of geographic features. Consequently, he has developed advanced GeoAI algorithms that enable models to better learn complex spatial patterns, so-called spatial heterogeneity, thereby improving the accuracy of land use mapping. He is also studying and researching quantitative approaches to modelling complex urban patterns and phenomena. He firmly believes and advocates that the problems of cities lie not only in understanding spatial complexity but also in creating organized complexity to make cities more livable and resilient.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+In addition to GeoAI and urban complexity, he is also interested in big data analysis and visualization, human perceptions of urban environments, and urban health. Currently, <font color=red>*Andy is seeking potential PhD opportunities*</font> related to the above topics. If you are interested in his experiences, please feel free to reach out though <a href='andy.j.xue@hkust-gz.edu.cn'>andy.j.xue AT hkust-gz.edu.cn</a>.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -48,7 +47,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
