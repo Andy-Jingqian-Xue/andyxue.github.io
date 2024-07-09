@@ -7,10 +7,10 @@ main:
     url: "/#-educations"
 
   - title: "Professional experience"
-    url: "/#-professional experience"
+    url: "/#-professional-experience"
 
   - title: "Publications"
     url: "/#-publications"
 
   - title: "Conference presentations"
-    url: "/#-conference presentations"
+    url: "/#-conference-presentations"

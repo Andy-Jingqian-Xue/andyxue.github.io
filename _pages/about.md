@@ -23,13 +23,16 @@ He is deeply interested in the fundamental properties and patterns of geographic
 
 In addition to GeoAI and urban complexity, he is also interested in big data analysis and visualization, human perceptions of urban environments, and urban health. Currently, ***<font color=red>Andy is seeking potential PhD opportunities</font>*** related to the above topics. If you are interested in his experiences, please feel free to reach out though <a href='andy.j.xue@hkust-gz.edu.cn'>andy.j.xue AT hkust-gz.edu.cn</a>.
 
+<span class='anchor' id='educations'></span>
 # 📖 Educations
 - *2023.09 – present*, *M.Phil.* in Urban Governance and Design, <a href='https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/society-hub/'> Society Hub</a>, <a href='https://www.hkust-gz.edu.cn/'>The Hong Kong University of Science and Technology (Guangzhou)</a>, Guangzhou, China.
 - *2019.09 – 2023.06*, *B.Sc.* in Geogrpahic Information Science, <a href='https://gp.sysu.edu.cn/en/'>School of Geography and Planning</a>, <a href='https://www.sysu.edu.cn/sysuen/'>Sun Yat-sen University</a>, Guangzhou, China.
 
+<span class='anchor' id='profesional-experiences'></span>
 # 💻 Professional experience
 - *2023.07 – 2023.08*, *Research Assistance* in Thrust of Urban Governance and Design, <a href='https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/society-hub/'> Society Hub</a>, <a href='https://www.hkust-gz.edu.cn/'>The Hong Kong University of Science and Technology (Guangzhou)</a>, Guangzhou, China.
 
+<span class='anchor' id='publications'></span>
 # 📝 Publications 
 - **<u>Xue J.</u>**, Huang C. and Jiang B. (2024), Measuring global urban complexity from the perspective of living structure, Urban Informatics, x(x), xx–xx (under review).
 - **<u>Xue J.</u>**, He D., Liu M. and Shi Q. (2022), [Dual network structure with interweaved global-local feature hierarchy for transformer-based object detection in remote sensing image](https://ieeexplore.ieee.org/document/9862529), IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 15, 6856–6866.
@@ -37,5 +40,6 @@ In addition to GeoAI and urban complexity, he is also interested in big data ana
 - He D., Shi Q., **<u>Xue J.</u>**, Atkinson P. M. and Liu X. (2023), [Very fine spatial resolution urban land cover mapping uUsing an explicable sub-pixel Mapping Network](https://www.sciencedirect.com/science/article/pii/S0034425723004352#f0050), Remote Sensing of Environment, 299, 113884.
 - Shi Q., He D., Liu Z., Liu X. and **<u>Xue J.</u>** (2023), [Globe230k: A benchmark dense-pixel annotation dataset for global land cover mapping](https://spj.science.org/doi/10.34133/remotesensing.0078), Journal of Remote Sensing, 3, 0078.
 
+<span class='anchor' id='conference-presentations'></span>
 # 💬 Conference presentations
 - *2024.12*, Measuring global urban complexity from the perspective of living structure, in Asian Cartographic Conference, International Cartographic Association: Hong Kong SAR, China. 
