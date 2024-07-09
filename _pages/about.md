@@ -23,8 +23,8 @@ He is deeply interested in the fundamental properties and patterns of geographic
 
 In addition to GeoAI and urban complexity, he is also interested in big data analysis and visualization, human perceptions of urban environments, and urban health. Currently, ***<font color=red>Andy is seeking potential PhD opportunities</font>*** related to the above topics. If you are interested in his experiences, please feel free to reach out though <a href='andy.j.xue@hkust-gz.edu.cn'>andy.j.xue AT hkust-gz.edu.cn</a>.
 
-<span class='anchor' id='educations'></span>
-# 📖 Educations
+<span class='anchor' id='education'></span>
+# 📖 Education
 - *2023.09 – present*, *M.Phil.* in Urban Governance and Design, <a href='https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/society-hub/'>Society Hub</a>, <a href='https://www.hkust-gz.edu.cn/'>The Hong Kong University of Science and Technology (Guangzhou)</a>, Guangzhou, China.
 - *2019.09 – 2023.06*, *B.Sc.* in Geogrpahic Information Science, <a href='https://gp.sysu.edu.cn/en/'>School of Geography and Planning</a>, <a href='https://www.sysu.edu.cn/sysuen/'>Sun Yat-sen University</a>, Guangzhou, China.
 
@@ -34,7 +34,6 @@ In addition to GeoAI and urban complexity, he is also interested in big data ana
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
-
 - **<u>Xue J.</u>**, Huang C. and Jiang B. (2024), Measuring global urban complexity from the perspective of living structure, *Urban Informatics*, x(x), xx–xx (under review).
 - **<u>Xue J.</u>**, He D., Liu M. and Shi Q. (2022), [Dual network structure with interweaved global-local feature hierarchy for transformer-based object detection in remote sensing image](https://ieeexplore.ieee.org/document/9862529), *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 15, 6856–6866.
 - He D., Shi Q., **<u>Xue J.</u>** and Liu X. (2024), Explicable sub-pixel mapping based on nested self-attention network with spatial correlation learnable mechanism, in *International Geoscience and Remote Sensing Symposium*, IEEE: Athens, Greece.
