@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Andy Jingqian Xue (薛景谦) is currently an MPhil student at <a href='https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/society-hub/urban-governance-and-design/'> Thrust of Urban Governance and Design </a> of <a href='https://www.hkust-gz.edu.cn/'>The Hong Kong University of Science and Technology (Guangzhou)</a> under the guidance of <a href='http://livablecitylab.hkust-gz.edu.cn/binjiang/'>Prof. Bin Jiang</a>. Before that, he earned a BSc degree in geographic information science from <a href='https://gp.sysu.edu.cn/en/'>School of Geography and Planning </a> of <a href='https://www.sysu.edu.cn/sysuen/'>Sun Yat-sen University</a> with the mentorship of <a href='https://gp.sysu.edu.cn/teacher/2789'>Prof. Qian Shi</a> and <a href='https://gp.sysu.edu.cn/teacher/3352'>Prof. Da He</a>. 
+Andy Jingqian Xue (薛景谦) is currently an MPhil student at <a href='https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/society-hub/urban-governance-and-design/'>Thrust of Urban Governance and Design </a> of <a href='https://www.hkust-gz.edu.cn/'>The Hong Kong University of Science and Technology (Guangzhou)</a> under the guidance of <a href='http://livablecitylab.hkust-gz.edu.cn/binjiang/'>Prof. Bin Jiang</a>. Before that, he earned a BSc degree in geographic information science from <a href='https://gp.sysu.edu.cn/en/'>School of Geography and Planning </a> of <a href='https://www.sysu.edu.cn/sysuen/'>Sun Yat-sen University</a> with the mentorship of <a href='https://gp.sysu.edu.cn/teacher/2789'>Prof. Qian Shi</a> and <a href='https://gp.sysu.edu.cn/teacher/3352'>Prof. Da He</a>. 
 
 He is deeply interested in the fundamental properties and patterns of geographic features. Consequently, he has developed several GeoAI algorithms that enable models to better learn complex spatial patterns or the so-called spatial heterogeneity, thereby improving the accuracy and model explicability of land use mapping. He is also studying and researching quantitative approaches to modeling urban complexity and spatial patterns. He firmly believes and advocates that the problems of cities lie not only in understanding spatial complexity but also in creating organized complexity to make cities more livable and resilient.
 
@@ -25,12 +25,12 @@ In addition to GeoAI and urban complexity, he is also interested in big data ana
 
 <span class='anchor' id='educations'></span>
 # 📖 Educations
-- *2023.09 – present*, *M.Phil.* in Urban Governance and Design, <a href='https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/society-hub/'> Society Hub</a>, <a href='https://www.hkust-gz.edu.cn/'>The Hong Kong University of Science and Technology (Guangzhou)</a>, Guangzhou, China.
+- *2023.09 – present*, *M.Phil.* in Urban Governance and Design, <a href='https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/society-hub/'>Society Hub</a>, <a href='https://www.hkust-gz.edu.cn/'>The Hong Kong University of Science and Technology (Guangzhou)</a>, Guangzhou, China.
 - *2019.09 – 2023.06*, *B.Sc.* in Geogrpahic Information Science, <a href='https://gp.sysu.edu.cn/en/'>School of Geography and Planning</a>, <a href='https://www.sysu.edu.cn/sysuen/'>Sun Yat-sen University</a>, Guangzhou, China.
 
 <span class='anchor' id='profesional-experiences'></span>
 # 💻 Professional experience
-- *2023.07 – 2023.08*, *Research Assistance* in Thrust of Urban Governance and Design, <a href='https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/society-hub/'> Society Hub</a>, <a href='https://www.hkust-gz.edu.cn/'>The Hong Kong University of Science and Technology (Guangzhou)</a>, Guangzhou, China.
+- *2023.07 – 2023.08*, *Research Assistance* in Thrust of Urban Governance and Design, <a href='https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/society-hub/'>Society Hub</a>, <a href='https://www.hkust-gz.edu.cn/'>The Hong Kong University of Science and Technology (Guangzhou)</a>, Guangzhou, China.
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
