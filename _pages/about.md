@@ -17,41 +17,25 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Andy Jingqian Xue (薛景谦) is currently a MPhil student at <a href='https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/society-hub/urban-governance-and-design/'> Thrust of Urban Governance and Design </a> of <a href='https://www.hkust-gz.edu.cn/'>The Hong Kong University of Science and Technology (Guangzhou)</a>. Before that, he earned a bachelor of science degree in geogrpahical information science from <a href='https://gp.sysu.edu.cn/en/'>School of Geography and Planning </a> of <a href='https://www.sysu.edu.cn/sysuen/'>Sun Yat-sen University</a>. He is deeply interested in fundamental geospatial representation and the properties and patterns of geographic features. Consequently, he has developed advanced GeoAI algorithms that enable models to better learn complex spatial patterns, so-called spatial heterogeneity, thereby improving the accuracy of land use mapping. He is also studying and researching quantitative approaches to modelling complex urban patterns and phenomena. He firmly believes and advocates that the problems of cities lie not only in understanding spatial complexity but also in creating organized complexity to make cities more livable and resilient.
+Andy Jingqian Xue (薛景谦) is currently an MPhil student at <a href='https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/society-hub/urban-governance-and-design/'> Thrust of Urban Governance and Design </a> of <a href='https://www.hkust-gz.edu.cn/'>The Hong Kong University of Science and Technology (Guangzhou)</a> under the guidance of <a href='http://livablecitylab.hkust-gz.edu.cn/binjiang/'>Prof. Bin Jiang</a>. Before that, he earned a BSc degree in geographic information science from <a href='https://gp.sysu.edu.cn/en/'>School of Geography and Planning </a> of <a href='https://www.sysu.edu.cn/sysuen/'>Sun Yat-sen University</a> with the mentorship of <a href='https://gp.sysu.edu.cn/teacher/2789'>Prof. Qian Shi</a> and <a href='https://gp.sysu.edu.cn/teacher/3352'>Prof. Da He</a>. 
 
-In addition to GeoAI and urban complexity, he is also interested in big data analysis and visualization, human perceptions of urban environments, and urban health. Currently, <font color=red>*Andy is seeking potential PhD opportunities*</font> related to the above topics. If you are interested in his experiences, please feel free to reach out though <a href='andy.j.xue@hkust-gz.edu.cn'>andy.j.xue AT hkust-gz.edu.cn</a>.
+He is deeply interested in the fundamental properties and patterns of geographic features. Consequently, he has developed several GeoAI algorithms that enable models to better learn complex spatial patterns or the so-called spatial heterogeneity, thereby improving the accuracy and model explicability of land use mapping. He is also studying and researching quantitative approaches to modeling urban complexity and spatial patterns. He firmly believes and advocates that the problems of cities lie not only in understanding spatial complexity but also in creating organized complexity to make cities more livable and resilient.
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+In addition to GeoAI and urban complexity, he is also interested in big data analysis and visualization, human perceptions of urban environments, and urban health. Currently, ***<font color=red>Andy is seeking potential PhD opportunities</font>*** related to the above topics. If you are interested in his experiences, please feel free to reach out though <a href='andy.j.xue@hkust-gz.edu.cn'>andy.j.xue AT hkust-gz.edu.cn</a>.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2019.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 – present*, *M.Phil.* in Urban Governance and Design, <a href='https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/society-hub/'> Society Hub</a>, <a href='https://www.hkust-gz.edu.cn/'>The Hong Kong University of Science and Technology (Guangzhou)</a>, Guangzhou, China.
+- *2019.09 – 2023.06*, *B.Sc.* in Geogrpahic Information Science, <a href='https://gp.sysu.edu.cn/en/'>School of Geography and Planning</a>, <a href='https://www.sysu.edu.cn/sysuen/'>Sun Yat-sen University</a>, Guangzhou, China.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💻 Professional experience
+- *2023.07 – 2023.08*, *Research Assistance* in Thrust of Urban Governance and Design, <a href='https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/society-hub/'> Society Hub</a>, <a href='https://www.hkust-gz.edu.cn/'>The Hong Kong University of Science and Technology (Guangzhou)</a>, Guangzhou, China.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 📝 Publications 
+- <u>**Xue J.**</u>, Huang C. and Jiang B. (2024), Measuring global urban complexity from the perspective of living structure, Urban Informatics, x(x), xx–xx (under review).
+- <u>**Xue J.**</u>, He D., Liu M. and Shi Q. (2022), [Dual network structure with interweaved global-local feature hierarchy for transformer-based object detection in remote sensing image](https://ieeexplore.ieee.org/document/9862529), IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 15, 6856–6866.
+- He D., Shi Q., <u>**Xue J.**</u> and Liu X. (2024), Explicable sub-pixel mapping based on nested self-attention network with spatial correlation learnable mechanism, in International Geoscience and Remote Sensing Symposium, IEEE: Athens, Greece.
+- He D., Shi Q., <u>**Xue J.**</u>, Atkinson P. M. and Liu X. (2023), [Very fine spatial resolution urban land cover mapping uUsing an explicable sub-pixel Mapping Network](https://www.sciencedirect.com/science/article/pii/S0034425723004352#f0050), Remote Sensing of Environment, 299, 113884.
+- Shi Q., He D., Liu Z., Liu X. and <u>**Xue J.**</u> (2023), [Globe230k: A benchmark dense-pixel annotation dataset for global land cover mapping](https://spj.science.org/doi/10.34133/remotesensing.0078), Journal of Remote Sensing, 3, 0078.
+
+# 💬 Conference presentations
+- *2024.12*, Measuring global urban complexity from the perspective of living structure, in Asian Cartographic Conference, International Cartographic Association: Hong Kong SAR, China. 
