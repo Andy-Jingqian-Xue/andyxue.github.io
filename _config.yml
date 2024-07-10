@@ -12,10 +12,10 @@ repository: "Andy-Jingqian-Xue/andyxue.github.io"
 google_scholar_stats_use_cdn: true
 
 # google analytics
-google_analytics_id: # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id: G-P4JMCW6TYP
 
 # SEO Related
-google_site_verification: # get google_site_verification from https://search.google.com/search-console/about
+google_site_verification: google-site-verification=9zhstBoYKIxezdWkn-HDqzIaZBOKigLrlULOu8Wiw1o
 bing_site_verification: # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
